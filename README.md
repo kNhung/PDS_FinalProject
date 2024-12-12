@@ -1,6 +1,8 @@
-# PDS_FinalProject
+# ĐỒ ÁN CUỐI KỲ
+# MÔN HỌC: LẬP TRÌNH CHO KHOA HỌC DỮ LIỆU
+## Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
+### NHÓM 16 ###
 ---
-### Group 16 ###
 ## A. Tổng quan về nhóm và đồ án:
 ### 1. Thông tin các thành viên:
 |Họ tên                 |MSSV    |

@@ -1,6 +1,6 @@
 # ĐỒ ÁN CUỐI KỲ
 # MÔN HỌC: LẬP TRÌNH CHO KHOA HỌC DỮ LIỆU
-## Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
+Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 ### NHÓM 16 ###
 ---
 ## A. Tổng quan về nhóm và đồ án:

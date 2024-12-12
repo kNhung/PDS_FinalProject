@@ -4,7 +4,7 @@ Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 ### NHÓM 16 ###
 ---
 ## Mục lục
-- [A. Tổng quan về nhóm và đồ án] (#phan-a)
+- [A. Tổng quan về nhóm và đồ án](#phan-a)
 ---
 ## A. Tổng quan về nhóm và đồ án: <a id="phan-a"></a>
 ### 1. Thông tin các thành viên:

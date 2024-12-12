@@ -19,7 +19,7 @@ Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 |Nguyễn Phát Kim Nhung  |22120259|Khám phá và tiền xử lý dữ liệu, đặt và trả lời câu hỏi|100%             |
 
 ### 3. Kế hoạch đồ án:
-https://docs.google.com/document/d/1CJeyHWTGjdVh4YpR0WIRiaTPnLxJBMfcX1IYbSd6DdM/edit?usp=sharing
+- Kế hoạch: https://docs.google.com/document/d/1CJeyHWTGjdVh4YpR0WIRiaTPnLxJBMfcX1IYbSd6DdM/edit?usp=sharing
 ---
 ## B. Những khó khăn và bài học rút ra được khi thực hiện đồ án:
 
@@ -32,6 +32,7 @@ https://docs.google.com/document/d/1CJeyHWTGjdVh4YpR0WIRiaTPnLxJBMfcX1IYbSd6DdM/
 - Nội dung:
   - **Phân công công việc:** Nhóm trưởng sẽ đọc các yêu cẩu được thầy đưa ra và thực hiện chia công việc theo như bảng phân công đã được nêu ở phần trên.
   - **Đặt ra hạn chót cho các công việc:**
+
 |Công việc                     |Người thực hiện    |Hạn chót  |
 |------------------------------|-------------------|----------|
 |Thu thập dữ liệu              |Trần Gia           |1/12/2024 |

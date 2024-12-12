@@ -3,7 +3,10 @@
 Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 ### NHÓM 16 ###
 ---
-## A. Tổng quan về nhóm và đồ án:
+## Mục lục
+- [A. Tổng quan về nhóm và đồ án] (#phan-a)
+---
+## A. Tổng quan về nhóm và đồ án: <a id="phan-a"></a>
 ### 1. Thông tin các thành viên:
 |Họ tên                 |MSSV    |
 |-----------------------|--------|
@@ -35,11 +38,11 @@ Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 |Nguyễn Phát Kim Nhung  |22120259|
 
 #### Thời gian:
-  - **Bắt đầu:** 22h ngày 24/11/2024
-  - **Kết thúc:** 23h ngày 24/11/2024
+- **Bắt đầu:** 22h ngày 24/11/2024
+- **Kết thúc:** 23h ngày 24/11/2024
 #### Nội dung:
-  - **Phân công công việc:** Nhóm trưởng sẽ đọc các yêu cẩu được thầy đưa ra và thực hiện chia công việc theo như bảng phân công đã được nêu ở phần trên.
-  - **Đặt ra hạn chót cho các công việc:**
+- **Phân công công việc:** Nhóm trưởng sẽ đọc các yêu cẩu được thầy đưa ra và thực hiện chia công việc theo như bảng phân công đã được nêu ở phần trên.
+- **Đặt ra hạn chót cho các công việc:**
 
 |Công việc                     |Người thực hiện      |Hạn chót  |
 |------------------------------|---------------------|----------|
@@ -50,7 +53,21 @@ Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 |Câu 2                         |Kim Ngân             |9/12/2024 |
 |Câu 3                         |Trần Gia             |9/12/2024 |
 
-  - **Đặt câu hỏi có ý nghĩa:** Nhóm trưởng sẽ giao việc đặt câu hỏi cho từng thành viên và nêu lên được lợi ích của chúng.
-    - Câu 1. Sự thay đổi về số lượng và thể loại nội dung của Netflix qua các năm là gì?
-    - Câu 2. Xu hướng về sự đa dạng hóa nội dung quốc tế và nội dung nội địa của Netflix là gì?
-    - Câu 3. Netflix có đang thay đổi chiến lược hợp tác với các đạo diễn và diễn viên nổi bật theo thể loại và thời gian không?
+- **Đặt câu hỏi có ý nghĩa:** Nhóm trưởng sẽ giao việc đặt câu hỏi cho từng thành viên và nêu lên được lợi ích của chúng.
+  - Câu 1. Sự thay đổi về số lượng và thể loại nội dung của Netflix qua các năm là gì?
+  - Câu 2. Xu hướng về sự đa dạng hóa nội dung quốc tế và nội dung nội địa của Netflix là gì?
+  - Câu 3. Netflix có đang thay đổi chiến lược hợp tác với các đạo diễn và diễn viên nổi bật theo thể loại và thời gian không?
+### 2. Biên bản họp lần 2:
+#### Thông tin các thành viên tham gia họp:
+
+|Họ tên                 |MSSV    |
+|-----------------------|--------|
+|Nguyễn Trần Gia        |22120083|
+|Trần Hoàng Kim Ngân    |22120224|
+|Nguyễn Phát Kim Nhung  |22120259|
+
+#### Thời gian:
+- **Bắt đầu:** 13h ngày 11/12/2024
+- **Kết thúc:** 15h ngày 11/12/2024
+#### Nội dung:
+- **Kiểm tra các phần đã thực hiện:** Các thành viên trong nhóm cùng xem lại các phần đã thực hiện và xem xét, ghi chú lại các nội dung bị sai sót trong quá trình làm.

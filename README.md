@@ -5,30 +5,37 @@ Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 ---
 ## Mục lục
 - [A. Tổng quan về nhóm và đồ án](#phan-a)
+  - [1. Thông tin các thành viên](#thong-tin)
+  - [2. Phân công công việc và đánh giá mức độ hoàn thành](#tu-danh-gia)
+  - [3. Kế hoạch đồ án](#ke-hoach)
+- [B. Những khó khăn và bài học rút ra được khi thực hiện đồ án](#phan-b)
+- [C. Biên bản họp](#phan-c)
+  - [1. Biên bản họp lần 1](#hop-lan-1)
+  - [2. Biên bản họp lần 2](#hop-lan-2)
 ---
 ## A. Tổng quan về nhóm và đồ án: <a id="phan-a"></a>
-### 1. Thông tin các thành viên:
+### 1. Thông tin các thành viên: <a id="thong-tin"></a>
 |Họ tên                 |MSSV    |
 |-----------------------|--------|
 |Nguyễn Trần Gia        |22120083|
 |Trần Hoàng Kim Ngân    |22120224|
 |Nguyễn Phát Kim Nhung  |22120259|
 
-### 2. Phân công công việc và đánh giá mức độ hoàn thành:
+### 2. Phân công công việc và đánh giá mức độ hoàn thành: <a id="tu-danh-gia"></a>
 |Họ tên                 |MSSV    |Phân công công việc                                   |Mức độ hoàn thành|
 |-----------------------|--------|------------------------------------------------------|-----------------|
 |Nguyễn Trần Gia        |22120083|Thu thập dữ liệu, đặt và trả lời câu hỏi              |100%             |
 |Trần Hoàng Kim Ngân    |22120224|Khám phá và tiền xử lý dữ liệu, đặt và trả lời câu hỏi|100%             |
 |Nguyễn Phát Kim Nhung  |22120259|Khám phá và tiền xử lý dữ liệu, đặt và trả lời câu hỏi|100%             |
 
-### 3. Kế hoạch đồ án:
+### 3. Kế hoạch đồ án: <a id="ke-hoach"></a>
 - Kế hoạch: https://docs.google.com/document/d/1CJeyHWTGjdVh4YpR0WIRiaTPnLxJBMfcX1IYbSd6DdM/edit?usp=sharing
 ---
-## B. Những khó khăn và bài học rút ra được khi thực hiện đồ án:
+## B. Những khó khăn và bài học rút ra được khi thực hiện đồ án: <a id="phan-b"></a>
 
 ---
-## C. Biên bản họp:
-### 1. Biên bản họp lần 1:
+## C. Biên bản họp: <a id="phan-c"></a>
+### 1. Biên bản họp lần 1: <a id="hop-lan-1"></a>
 #### Thông tin các thành viên tham gia họp:
 
 |Họ tên                 |MSSV    |
@@ -57,7 +64,7 @@ Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
   - Câu 1. Sự thay đổi về số lượng và thể loại nội dung của Netflix qua các năm là gì?
   - Câu 2. Xu hướng về sự đa dạng hóa nội dung quốc tế và nội dung nội địa của Netflix là gì?
   - Câu 3. Netflix có đang thay đổi chiến lược hợp tác với các đạo diễn và diễn viên nổi bật theo thể loại và thời gian không?
-### 2. Biên bản họp lần 2:
+### 2. Biên bản họp lần 2: <a id="hop-lan-2"></a>
 #### Thông tin các thành viên tham gia họp:
 
 |Họ tên                 |MSSV    |

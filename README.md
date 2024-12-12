@@ -26,17 +26,18 @@ Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 ---
 ## C. Biên bản họp:
 ### 1. Biên bản họp lần 1:
-- Thông tin các thành viên tham gia họp:
+#### Thông tin các thành viên tham gia họp:
+
 |Họ tên                 |MSSV    |
 |-----------------------|--------|
 |Nguyễn Trần Gia        |22120083|
 |Trần Hoàng Kim Ngân    |22120224|
 |Nguyễn Phát Kim Nhung  |22120259|
 
-- Thời gian:
+#### Thời gian:
   - **Bắt đầu:** 22h ngày 24/11/2024
   - **Kết thúc:** 23h ngày 24/11/2024
-- Nội dung:
+#### Nội dung:
   - **Phân công công việc:** Nhóm trưởng sẽ đọc các yêu cẩu được thầy đưa ra và thực hiện chia công việc theo như bảng phân công đã được nêu ở phần trên.
   - **Đặt ra hạn chót cho các công việc:**
 

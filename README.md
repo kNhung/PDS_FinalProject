@@ -33,7 +33,7 @@ Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 |-------------------------|--------------------------------------------------|--------------------------------------------|-----------------|
 |18/11/2024 - 23/11/2024  |Tìm hiểu và cách thực hiện đồ án                  |Tất cả thành viên                           |100%             |
 |24/11/2024               |Họp nhóm lần 1                                    |Tất cả thành viên                           |100%             |
-|24/11/2024 - 1/12/2024   |Thực hiện thu thập dữ liệu của tập dữ liệu đã chọn|Nguyễn Trần Gia                             |100%             |
+|24/11/2024 - 1/12/2024   |Thực hiện thu thập dữ liệu về tập dữ liệu đã chọn |Nguyễn Trần Gia                             |100%             |
 |24/11/2024 - 29/11/2024  |Thực hiện khám phá và tiền xử lý dữ liệu          |Trần Hoàng Kim Ngân và Nguyễn Phát Kim Nhung|100%             |
 |29/11/2024 - 9/12/2024   |Tìm hiểu, đặt và phân tích những câu hỏi          |Tất cả thành viên                           |100%             |
 |9/12/2024 - 10/12/2024   |Duyệt lại tất cả các nội dung đã thực hiện        |Tất cả thành viên                           |100%             |

@@ -31,7 +31,7 @@ Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 ### 3. Kế hoạch đồ án: <a id="ke-hoach"></a>
 |Thời gian thực hiện      |Công việc                                         |Người thực hiện                             |Đánh giá tiến độ |
 |-------------------------|--------------------------------------------------|--------------------------------------------|-----------------|
-|18/11/2024 - 23/11/2024  |Tìm hiểu và cách thực hiện đồ án                  |Tất cả thành viên                           |100%             |
+|18/11/2024 - 23/11/2024  |Tìm hiểu về cách thực hiện đồ án                  |Tất cả thành viên                           |100%             |
 |24/11/2024               |Họp nhóm lần 1                                    |Tất cả thành viên                           |100%             |
 |24/11/2024 - 1/12/2024   |Thực hiện thu thập dữ liệu về tập dữ liệu đã chọn |Nguyễn Trần Gia                             |100%             |
 |24/11/2024 - 29/11/2024  |Thực hiện khám phá và tiền xử lý dữ liệu          |Trần Hoàng Kim Ngân và Nguyễn Phát Kim Nhung|100%             |

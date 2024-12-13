@@ -29,16 +29,16 @@ Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 |Nguyễn Phát Kim Nhung  |22120259|Khám phá và tiền xử lý dữ liệu, đặt và trả lời câu hỏi|100%             |
 
 ### 3. Kế hoạch đồ án: <a id="ke-hoach"></a>
-|Thời gian thực hiện      |Công việc                                         |Người thực hiện                             |Đánh giá tiến độ|
-|-------------------------|--------------------------------------------------|--------------------------------------------|----------------|
-|18/11/2024 - 23/11/2024  |Tìm hiểu và cách thực hiện đồ án                  |Tất cả thành viên                           |100%            |
-|24/11/2024               |Họp nhóm lần 1                                    |Tất cả thành viên                           |100%            |
-|24/11/2024 - 1/12/2024   |Thực hiện thu thập dữ liệu của tập dữ liệu đã chọn|Nguyễn Trần Gia                             |100%            |
-|24/11/2024 - 29/11/2024  |Thực hiện khám phá và tiền xử lý dữ liệu          |Trần Hoàng Kim Ngân và Nguyễn Phát Kim Nhung|100%            |
-|29/11/2024 - 9/12/2024   |Tìm hiểu, đặt và phân tích những câu hỏi          |Tất cả thành viên                           |100%            |
-|9/12/2024 - 10/12/2024   |Duyệt lại tất cả các nội dung đã thực hiện        |Tất cả thành viên                           |100%            |
-|11/12/2024               |Họp lần 2                                         |Tất cả thành viên                           |100%            |
-|11/12/2024 - 13/12/2024  |Thực hiện chỉnh sửa và hoàn thành đồ án           |Tất cả thành viên                           |100%            |
+|Thời gian thực hiện      |Công việc                                         |Người thực hiện                             |Đánh giá tiến độ |
+|-------------------------|--------------------------------------------------|--------------------------------------------|-----------------|
+|18/11/2024 - 23/11/2024  |Tìm hiểu và cách thực hiện đồ án                  |Tất cả thành viên                           |100%             |
+|24/11/2024               |Họp nhóm lần 1                                    |Tất cả thành viên                           |100%             |
+|24/11/2024 - 1/12/2024   |Thực hiện thu thập dữ liệu của tập dữ liệu đã chọn|Nguyễn Trần Gia                             |100%             |
+|24/11/2024 - 29/11/2024  |Thực hiện khám phá và tiền xử lý dữ liệu          |Trần Hoàng Kim Ngân và Nguyễn Phát Kim Nhung|100%             |
+|29/11/2024 - 9/12/2024   |Tìm hiểu, đặt và phân tích những câu hỏi          |Tất cả thành viên                           |100%             |
+|9/12/2024 - 10/12/2024   |Duyệt lại tất cả các nội dung đã thực hiện        |Tất cả thành viên                           |100%             |
+|11/12/2024               |Họp lần 2                                         |Tất cả thành viên                           |100%             |
+|11/12/2024 - 13/12/2024  |Thực hiện chỉnh sửa và hoàn thành đồ án           |Tất cả thành viên                           |100%             |
 
 ---
 ## B. Những khó khăn và cách giải quyết khó khăn khi thực hiện đồ án: <a id="phan-b"></a>

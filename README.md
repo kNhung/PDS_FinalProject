@@ -34,13 +34,17 @@ Giảng viên hướng dẫn: ThS. Phạm Trọng Nghĩa
 ## B. Những khó khăn và cách giải quyết khó khăn khi thực hiện đồ án: <a id="phan-b"></a>
 #### Thu thập dữ liệu:
 - Có nhiều trang web cung cấp nhiều dữ liệu khác nhau, khó khăn trong tìm kiếm dữ liệu phù hợp để phân tích, tìm hiểu xử lý
+
 -> Cách xử lý: Trang kagge có cung cấp đầy đủ thông tin giấy phép uy tín, update dữ liệu mới.
 #### Khám phá và tiền xử lý dữ liệu:
 - Cột ‘duration’ không nhất quán về giá trị: vừa là số phút của phim, vừa là số phần của chương trình truyền hình.
+
 -> Cách xử lý: Tách làm 2 cột: ‘duration’ cho thời lượng phim, ‘season’ cho số mùa của chương trình truyền hình.
 - Sau khi tách thì tạo ra giá trị null trong 2 cột  ‘duration’ và ‘season’.
+
 -> Cách xử lý: Do giá trị null của mỗi cột là do khác loại, nếu điền 0 sẽ không hợp lí do nó không phải null từ mỗi cột và sẽ làm sai lệch phân bổ của dữ liệu, nên nhóm quyết định giữ null. Vì giữ null nên không ép kiểu int được mà phải ép kiểu float.
 - Giá trị null của cột ‘rating’ không thể điền trung bình hay mode do dễ làm sai thông tin liên quan đến thể loại, nội dung.
+
 -> Cách xử lý: Vì phần trăm null của cột này không nhiều, có thể tìm và điền vào rating tương ứng. Nhưng mỗi nội dung được gán nhãn khác nhau ở mỗi nước -> Thống nhất chọn rating ở Mỹ.
 #### Trả lời câu hỏi:
 **Câu 1:** Sự thay đổi về số lượng và thể loại nội dung của Netflix qua các năm là gì?
